@@ -1,0 +1,3 @@
+D:/JAVA/IntelliJ IDEA 2021.2.2/3119005410/src/main/file/orig_0.8_del.txt
+D:/JAVA/IntelliJ IDEA 2021.2.2/3119005410/src/main/file/orig_0.8_dis_10.txt
+相似度 ：0.10466354709883667
