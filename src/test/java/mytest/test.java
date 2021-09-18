@@ -1,5 +1,5 @@
 package mytest;
-
+/*
 import org.junit.Test;
 import BC.PaperCheck;
 
@@ -47,5 +47,5 @@ public class test {
     public void test10(){
         d.getRepetiveRate("D:/JAVA/IntelliJ IDEA 2021.2.2/3119005410/src/main/file/orig_0.8_add.txt", "D:/JAVA/IntelliJ IDEA 2021.2.2/3119005410/src/main/file/orig_0.8_dis_15.txt");
     }
-
 }
+*/
