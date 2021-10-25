@@ -14,8 +14,8 @@ public class FileOperation {
     calculates cal = new calculates();
     HashMap<String, String> map = new HashMap<String, String>();
 
-    /*
-    在当前目录下生成练习题和答案
+    /**
+     *在当前目录下生成练习题和答案
      */
     public void build(int n, int r) throws IOException {
         BufferedWriter Bexersise = new BufferedWriter(new FileWriter(".\\Exercises.txt"));
@@ -81,8 +81,8 @@ public class FileOperation {
 
     }
 
-    /*
-    查重表达式的生成
+    /**
+     *查重表达式的生成
      */
     public List<String> getCheck(String str) {
         List<String> linfix = transform.ToList(str);

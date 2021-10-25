@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class transform {
-    /*
+        /**
          将String类型表达式转换成List<String>类型
          */
     public static List<String> ToList(String str){
@@ -32,7 +32,7 @@ public class transform {
         return infix;
     }
 
-    /*
+    /**
     将List<String>类型表达式转换成String类型
     */
     public static String ToString(List<String> list) {
